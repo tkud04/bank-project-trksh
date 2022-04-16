@@ -1,0 +1,1792 @@
+/* Wednesday 3rd of June 2020 05:56:21 PM*/
+
+/* Wednesday 3rd of June 2020 05:56:21 PM*/
+
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 {
+  overflow: hidden;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 div,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dt,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dd,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 img,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 h3 {
+  width: auto;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  float: none;
+  clear: none;
+  line-height: normal;
+  position: static;
+  list-style: none;
+}
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-9 div,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dt,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dd,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-9 h3 {
+  width: 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 img {
+  vertical-align: middle;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 a {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 a :focus,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 a :active {
+  background: none;
+  outline: 0;
+  -moz-outline-style: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 img {
+  margin: 0 4px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl {
+  zoom: 1;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dl {
+  position: absolute;
+  width: 100%;
+  top: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dd {
+  overflow: hidden;
+  height: 0px;
+  width: 100%;
+  margin: 0;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dd.opening,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dd.closing,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dd.opened {
+  display: block;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dd.parent.opening {
+  -webkit-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  -moz-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  -o-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dd.parent.closing {
+  -webkit-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  -moz-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  -o-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dd.parent.opening.notransition,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dd.parent.closing.notransition {
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dd.parent.opened {
+  height: auto;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dd.parent.opened > dl {
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 .nextend-productnum {
+  display: inline-block;
+  float: right;
+  vertical-align: middle;
+  margin: -1px 5px 0 5px;
+  min-width: 8px;
+  padding-left: 8px !important;
+  padding: 0 8px;
+  text-align: center !important;
+  border: 1px solid rgba(255,255,255,0.5);
+  border-radius: 9px 9px 9px 9px;
+  -webkit-box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+}
+.dj_ie6 div#nextend-accordion-menu-nextendaccordionmenuwidget-9 span.nextend-productnum,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-9 span.nextend-productnum {
+  float: none;
+  display: inline;
+  margin: 0 10px;
+}
+.dj_ie6 div#nextend-accordion-menu-nextendaccordionmenuwidget-9 span.nextend-productnum,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-9 span.nextend-productnum,
+.dj_ie8 div#nextend-accordion-menu-nextendaccordionmenuwidget-9 span.nextend-productnum {
+  border: 1px solid #ffffff;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9.noscript dl.level1 dl {
+  position: static;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9.noscript dl.level1 dd.parent {
+  height: auto !important;
+  display: block;
+  visibility: visible;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 {
+  margin: 0px 0px 10px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 .nextend-accordion-menu-inner {
+  overflow: hidden;
+  width: 100%;
+  margin-top: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 .nextend-productnum {
+  border: 1px solid #EAEAEA;
+  box-shadow: none;
+  font-size: 11px !important;
+  line-height: 15px !important;
+  margin-top: 1px;
+  padding: 0 6px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 .nextend-accordion-menu-inner-container {
+  overflow: hidden;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dt,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dd {
+  display: block;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt .inner {
+  margin: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 div div.title h3 {
+  margin: 0;
+  padding-top: 8px !important;
+  padding-bottom: 5px !important;
+  min-height: 26px;
+  background: transparent;
+  color: #ffffff;font-size:18px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 16px;font-weight: bold;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 .outer,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 .inner {
+  display: block;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 .outer {
+  background: none repeat-x 0 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9.noscript dl.level1 dt.parent .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.parent .inner {
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.parent.opening .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 0px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt.active a span {
+  color: #c4622d;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: bold;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 dt:HOVER a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 .outer {
+  padding: 0px 0px 0px 0px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level1 .inner {
+  padding: 2px 0px 2px 0px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9.noscript dl.level2 dt.parent .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/plugins/nextend-accordion-menu/library/assets/accordionmenu/images/default/plus/exp2.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.parent.opening .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 0px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt.active a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 dt:HOVER a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 .outer {
+  padding: 0px 0px 0px 15px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level2 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9.noscript dl.level3 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt a span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt.active a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 dt:HOVER a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 .outer {
+  padding: 0px 0px 0px 30px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level3 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9.noscript dl.level4 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt a span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt.active a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 dt:HOVER a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 .outer {
+  padding: 0px 0px 0px 45px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level4 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9.noscript dl.level5 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt a span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 5px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt.active a span {
+  color: #135cae;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 dt:HOVER a span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 .outer {
+  padding: 0px 0px 0px 60px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-9 dl.level5 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 {
+  overflow: hidden;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 div,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dt,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dd,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 img,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 h3 {
+  width: auto;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  float: none;
+  clear: none;
+  line-height: normal;
+  position: static;
+  list-style: none;
+}
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-10 div,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dt,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dd,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-10 h3 {
+  width: 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 img {
+  vertical-align: middle;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 a {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 a :focus,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 a :active {
+  background: none;
+  outline: 0;
+  -moz-outline-style: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 img {
+  margin: 0 4px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl {
+  zoom: 1;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dl {
+  position: absolute;
+  width: 100%;
+  top: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dd {
+  display: none;
+  overflow: hidden;
+  height: 0px;
+  width: 100%;
+  margin: 0;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dd.opening,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dd.closing,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dd.opened {
+  display: block;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dd.parent.opened {
+  height: auto;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dd.parent.opened > dl {
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 .nextend-productnum {
+  display: inline-block;
+  float: right;
+  vertical-align: middle;
+  margin: -1px 5px 0 5px;
+  min-width: 8px;
+  padding-left: 8px !important;
+  padding: 0 8px;
+  text-align: center !important;
+  border: 1px solid rgba(255,255,255,0.5);
+  border-radius: 9px 9px 9px 9px;
+  -webkit-box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+}
+.dj_ie6 div#nextend-accordion-menu-nextendaccordionmenuwidget-10 span.nextend-productnum,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-10 span.nextend-productnum {
+  float: none;
+  display: inline;
+  margin: 0 10px;
+}
+.dj_ie6 div#nextend-accordion-menu-nextendaccordionmenuwidget-10 span.nextend-productnum,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-10 span.nextend-productnum,
+.dj_ie8 div#nextend-accordion-menu-nextendaccordionmenuwidget-10 span.nextend-productnum {
+  border: 1px solid #ffffff;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10.noscript dl.level1 dl {
+  position: static;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10.noscript dl.level1 dd.parent {
+  height: auto !important;
+  display: block;
+  visibility: visible;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 {
+  margin: 0px 0px 10px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 .nextend-accordion-menu-inner {
+  overflow: hidden;
+  width: 100%;
+  margin-top: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 .nextend-productnum {
+  border: 1px solid #EAEAEA;
+  box-shadow: none;
+  font-size: 11px !important;
+  line-height: 15px !important;
+  margin-top: 1px;
+  padding: 0 6px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 .nextend-accordion-menu-inner-container {
+  overflow: hidden;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dt,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dd {
+  display: block;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt .inner {
+  margin: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 div div.title h3 {
+  margin: 0;
+  padding-top: 8px !important;
+  padding-bottom: 5px !important;
+  min-height: 26px;
+  background: transparent;
+  color: #ffffff;font-size:18px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 21px;font-weight: bold;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 .outer,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 .inner {
+  display: block;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 .outer {
+  background: none repeat-x 0 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10.noscript dl.level1 dt.parent .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.parent .inner {
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.parent.opening .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 0px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt.active a span {
+  color: #c4622d;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: bold;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 dt:HOVER a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 .outer {
+  padding: 0px 0px 0px 0px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level1 .inner {
+  padding: 2px 0px 2px 0px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10.noscript dl.level2 dt.parent .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.parent .inner {
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.parent.opening .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 0px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt.active a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 dt:HOVER a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 .outer {
+  padding: 0px 0px 0px 15px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level2 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10.noscript dl.level3 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt a span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt.active a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 dt:HOVER a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 .outer {
+  padding: 0px 0px 0px 30px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level3 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10.noscript dl.level4 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt a span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt.active a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 dt:HOVER a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 .outer {
+  padding: 0px 0px 0px 45px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level4 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10.noscript dl.level5 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt a span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt.active a span {
+  color: #135cae;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 dt:HOVER a span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 .outer {
+  padding: 0px 0px 0px 60px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-10 dl.level5 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 {
+  overflow: hidden;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 div,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dt,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dd,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 img,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 h3 {
+  width: auto;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  float: none;
+  clear: none;
+  line-height: normal;
+  position: static;
+  list-style: none;
+}
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-12 div,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dt,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dd,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-12 h3 {
+  width: 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 img {
+  vertical-align: middle;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 a {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 a :focus,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 a :active {
+  background: none;
+  outline: 0;
+  -moz-outline-style: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 img {
+  margin: 0 4px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl {
+  zoom: 1;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dl {
+  position: absolute;
+  width: 100%;
+  top: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dd {
+  display: none;
+  overflow: hidden;
+  height: 0px;
+  width: 100%;
+  margin: 0;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dd.opening,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dd.closing,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dd.opened {
+  display: block;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dd.parent.opened {
+  height: auto;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dd.parent.opened > dl {
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 .nextend-productnum {
+  display: inline-block;
+  float: right;
+  vertical-align: middle;
+  margin: -1px 5px 0 5px;
+  min-width: 8px;
+  padding-left: 8px !important;
+  padding: 0 8px;
+  text-align: center !important;
+  border: 1px solid rgba(255,255,255,0.5);
+  border-radius: 9px 9px 9px 9px;
+  -webkit-box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+}
+.dj_ie6 div#nextend-accordion-menu-nextendaccordionmenuwidget-12 span.nextend-productnum,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-12 span.nextend-productnum {
+  float: none;
+  display: inline;
+  margin: 0 10px;
+}
+.dj_ie6 div#nextend-accordion-menu-nextendaccordionmenuwidget-12 span.nextend-productnum,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-12 span.nextend-productnum,
+.dj_ie8 div#nextend-accordion-menu-nextendaccordionmenuwidget-12 span.nextend-productnum {
+  border: 1px solid #ffffff;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12.noscript dl.level1 dl {
+  position: static;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12.noscript dl.level1 dd.parent {
+  height: auto !important;
+  display: block;
+  visibility: visible;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 {
+  margin: 0px 0px 10px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 .nextend-accordion-menu-inner {
+  overflow: hidden;
+  width: 100%;
+  margin-top: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 .nextend-productnum {
+  border: 1px solid #EAEAEA;
+  box-shadow: none;
+  font-size: 11px !important;
+  line-height: 15px !important;
+  margin-top: 1px;
+  padding: 0 6px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 .nextend-accordion-menu-inner-container {
+  overflow: hidden;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dt,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dd {
+  display: block;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt .inner {
+  margin: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 div div.title h3 {
+  margin: 0;
+  padding-top: 8px !important;
+  padding-bottom: 5px !important;
+  min-height: 26px;
+  background: transparent;
+  color: #ffffff;font-size:18px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 21px;font-weight: bold;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 .outer,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 .inner {
+  display: block;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 .outer {
+  background: none repeat-x 0 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12.noscript dl.level1 dt.parent .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.parent .inner {
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.parent.opening .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 0px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt.active a span {
+  color: #c4622d;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: bold;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 dt:HOVER a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 .outer {
+  padding: 0px 0px 0px 0px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level1 .inner {
+  padding: 2px 0px 2px 0px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12.noscript dl.level2 dt.parent .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.parent .inner {
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.parent.opening .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 0px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt.active a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 dt:HOVER a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 .outer {
+  padding: 0px 0px 0px 15px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level2 .inner {
+  padding: 2px 0px 2px 0px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12.noscript dl.level3 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt a span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt.active a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 dt:HOVER a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 .outer {
+  padding: 0px 0px 0px 30px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level3 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12.noscript dl.level4 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt a span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt.active a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 dt:HOVER a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 .outer {
+  padding: 0px 0px 0px 45px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level4 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12.noscript dl.level5 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt a span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt.active a span {
+  color: #135cae;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 dt:HOVER a span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 .outer {
+  padding: 0px 0px 0px 60px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-12 dl.level5 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 {
+  overflow: hidden;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 div,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dt,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dd,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 img,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 h3 {
+  width: auto;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  float: none;
+  clear: none;
+  line-height: normal;
+  position: static;
+  list-style: none;
+}
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-25 div,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dt,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dd,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-25 h3 {
+  width: 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 img {
+  vertical-align: middle;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 a {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 a :focus,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 a :active {
+  background: none;
+  outline: 0;
+  -moz-outline-style: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 img {
+  margin: 0 4px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl {
+  zoom: 1;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dl {
+  position: absolute;
+  width: 100%;
+  top: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dd {
+  overflow: hidden;
+  height: 0px;
+  width: 100%;
+  margin: 0;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dd.opening,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dd.closing,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dd.opened {
+  display: block;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dd.parent.opening {
+  -webkit-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  -moz-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  -o-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dd.parent.closing {
+  -webkit-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  -moz-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  -o-transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+  transition: all 0.50s cubic-bezier(0.645,0.045,0.355,1.000);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dd.parent.opening.notransition,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dd.parent.closing.notransition {
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dd.parent.opened {
+  height: auto;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dd.parent.opened > dl {
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 .nextend-productnum {
+  display: inline-block;
+  float: right;
+  vertical-align: middle;
+  margin: -1px 5px 0 5px;
+  min-width: 8px;
+  padding-left: 8px !important;
+  padding: 0 8px;
+  text-align: center !important;
+  border: 1px solid rgba(255,255,255,0.5);
+  border-radius: 9px 9px 9px 9px;
+  -webkit-box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2), 1px 1px 2px rgba(0, 0, 0, 0.1) inset;
+}
+.dj_ie6 div#nextend-accordion-menu-nextendaccordionmenuwidget-25 span.nextend-productnum,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-25 span.nextend-productnum {
+  float: none;
+  display: inline;
+  margin: 0 10px;
+}
+.dj_ie6 div#nextend-accordion-menu-nextendaccordionmenuwidget-25 span.nextend-productnum,
+.dj_ie7 div#nextend-accordion-menu-nextendaccordionmenuwidget-25 span.nextend-productnum,
+.dj_ie8 div#nextend-accordion-menu-nextendaccordionmenuwidget-25 span.nextend-productnum {
+  border: 1px solid #ffffff;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25.noscript dl.level1 dl {
+  position: static;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25.noscript dl.level1 dd.parent {
+  height: auto !important;
+  display: block;
+  visibility: visible;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 {
+  margin: 0px 0px 10px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 .nextend-accordion-menu-inner {
+  overflow: hidden;
+  width: 100%;
+  margin-top: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 .nextend-productnum {
+  border: 1px solid #EAEAEA;
+  box-shadow: none;
+  font-size: 11px !important;
+  line-height: 15px !important;
+  margin-top: 1px;
+  padding: 0 6px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 .nextend-accordion-menu-inner-container {
+  overflow: hidden;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dt,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dd {
+  display: block;
+  position: relative;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt .inner {
+  margin: 0;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 div div.title h3 {
+  margin: 0;
+  padding-top: 8px !important;
+  padding-bottom: 5px !important;
+  min-height: 26px;
+  background: transparent;
+  color: #ffffff;font-size:18px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 21px;font-weight: bold;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 .outer,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 .inner {
+  display: block;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 .outer {
+  background: none repeat-x 0 100%;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25.noscript dl.level1 dt.parent .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.parent .inner {
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.parent.opening .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 0px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt.active a span {
+  color: #c4622d;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: bold;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 dt:HOVER a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 .outer {
+  padding: 0px 0px 0px 0px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level1 .inner {
+  padding: 2px 0px 2px 0px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25.noscript dl.level2 dt.parent .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.parent .inner {
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.parent.opening .inner {
+  background-image: none;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 0px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt.active a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 dt:HOVER a span {
+  color: #ffffff;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;-moz-transition: padding-left 0.4s ease;-webkit-transition: padding-left 0.4s ease;-o-transition: padding-left 0.4s ease;transition: padding-left 0.4s ease;padding-left: 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 .outer {
+  padding: 0px 0px 0px 15px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level2 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25.noscript dl.level3 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt a span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt.active a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 dt:HOVER a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 .outer {
+  padding: 0px 0px 0px 30px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level3 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25.noscript dl.level4 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt a span {
+  color: #333333;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt.active a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 dt:HOVER a span {
+  color: #135cae;font-size:12px;text-shadow: none;font-family: 'Open Sans',sans-serif;line-height: 20px;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 .outer {
+  padding: 0px 0px 0px 45px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level4 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25.noscript dl.level5 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.parent .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize4f1f54eaeab64ff6bf0ce91e50c6f7c157883bff548722.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  cursor: pointer;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.parent.opened .inner,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.parent.opening .inner {
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/colorize5ba1728058f444e083736193afa2d042d66060ff548722.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt a {
+  padding-left: 0px !important;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt a span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt .inner {
+  background: none repeat 0 0;
+  border-style: solid;
+  border-color: #e0e0e0;
+  border-width: 0px 0px 1px 0px;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.opening span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.opening span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.opening a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.opening a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.opened span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.opened span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.opened a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.opened a span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.active span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.active span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.active a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt.active a span {
+  color: #135cae;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt:HOVER span.inner span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt:HOVER span.inner span span,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt:HOVER a,
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 dt:HOVER a span {
+  color: #ffffff;font-size:13px;text-shadow: 0px 1px 2px RGBA(0,0,0,1);font-family: 'Open Sans',sans-serif;line-height: normal;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 .outer {
+  padding: 0px 0px 0px 60px ;
+  background-image: url(https://www.turkishbank.com/wp-content/cache/image/static/transparentcolor.png);
+}
+div#nextend-accordion-menu-nextendaccordionmenuwidget-25 dl.level5 .inner {
+  padding: 2px 0px 2px 20px ;
+  margin: 0 0 0 8px;
+}

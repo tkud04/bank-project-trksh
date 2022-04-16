@@ -37,7 +37,7 @@ class MainController extends Controller {
 		$signals = $this->helpers->signals;
         $courses = $this->helpers->getClasses();
         #dd($user);
-    	return view('index',compact(['user','courses','signals']));
+    	return view('temp',compact(['user','courses','signals']));
     }
 	
 
